@@ -1,0 +1,4 @@
+.env
+client
+.vscode
+node_modules
